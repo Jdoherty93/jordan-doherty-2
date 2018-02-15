@@ -1,0 +1,8 @@
+{
+  "name": "jordan-doherty",
+  "app_id": "19efa507",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
